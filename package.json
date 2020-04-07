@@ -1,7 +1,12 @@
 {
   "name": "@csvenke/prettier-config",
+  "description": "My prettier config",
   "version": "0.0.1",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/csvenke/prettier-config.git"
+  },
   "main": "index.json",
   "files": [
     "index.json"
