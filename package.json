@@ -1,5 +1,12 @@
 {
   "name": "@csvenke/prettier-config",
   "version": "0.0.1",
-  "main": "index.json"
+  "license": "MIT",
+  "main": "index.json",
+  "files": [
+    "index.json"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
 }
