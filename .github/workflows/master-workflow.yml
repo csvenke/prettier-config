@@ -1,6 +1,9 @@
 name: master
 
-on: [master]
+on:
+  push:
+    branches:
+      - master
 
 jobs:
   release:
